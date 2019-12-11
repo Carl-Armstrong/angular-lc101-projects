@@ -1,0 +1,15 @@
+h3 {
+    color: orchid;
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
+    font-family: serif;
+    color: peru;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+}
